@@ -1,0 +1,6 @@
+In arrays read them:-
+
+forEach()
+filter()
+find()
+map()

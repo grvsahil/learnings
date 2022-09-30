@@ -1,0 +1,43 @@
+#header {
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 60px;
+  padding-top: 10px;
+}
+
+#container-1 {
+  background-color:#00b3b3;
+  margin-top:20px;
+  height: 220px;
+  width: 100%;
+}
+
+.cont-1-txt {
+  color: white;
+  margin-left: 100px;
+  padding-top: 50px;
+}
+
+.cont-1-logos {
+  height: 35px;
+  width: 35px;
+  padding-top: 15px;
+}
+
+#cont-1-logo-txt {
+  margin-left: 100px;
+  color: white;
+}
+
+#computer-logo {
+  margin-left:100px;
+}
+
+#mobile-logo {
+  margin-left:118px;
+}
+
+#strategy-logo {
+  margin-left:135px;
+}

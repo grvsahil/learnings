@@ -1,0 +1,112 @@
+
+#header {
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 100px;
+  padding-top: 10px;
+}
+
+#container-1 {
+  background-color: #00b3b3;
+  height: 400px;
+  background-image: url(bg.png);
+  background-repeat: no-repeat;
+  background-position: 90% 0%;
+  background-size: 400px;
+}
+
+.cont-1-txt {
+  color: white;
+  margin-left: 100px;
+  padding-top: 80px;
+  font-size: 20px;
+}
+
+.cont-1-container {
+  display: flex;
+}
+
+.cont-1-box1 {
+  flex: 1;
+}
+
+.cont-1-box2 {
+  flex: 1;
+}
+
+.cont-1-box3 {
+  flex: 2;
+}
+
+.cont-1-logos {
+  width: 50px;
+  height: 50px;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+
+.cont-1-logos-txt {
+  color: #f2f2f2;
+  margin-left: 100px;
+  font-size: 18px;
+}
+
+#container-2 {
+  background-color: #f2f2f2;
+  height: 450px;
+}
+
+#cont-2-head {
+  text-align: center;
+  font-size: large;
+  padding-top: 50px;
+  font-size: 30px;
+  margin: 0px;
+}
+
+#cont-2-txt-1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.cont-2-container {
+  display: flex;
+}
+
+.cont-2-box1 {
+  flex: 1;
+  margin-left: 750px;
+  text-align: center;
+}
+
+.cont-2-box2 {
+  flex: 1;
+  text-align: center;
+  margin-right: 750px;
+}
+
+.cont-2-box1-head {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cont-3-grid-container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap: 60px 550px;
+}
+
+.btm-logo {
+  width: 200px;
+  height: 200px;
+}
+
+.grid-e1 {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.grid-e4 {
+  margin-left: 100px;
+}

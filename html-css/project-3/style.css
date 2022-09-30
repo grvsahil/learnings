@@ -1,0 +1,26 @@
+#cont-1 {
+    height: auto;
+}
+
+#cont-1-txt {
+    font-size: large;
+    font-weight: bold;
+    font-style: oblique;
+    padding-top: 5px;
+    margin-left: 100px;
+    padding-bottom: 5px;
+}
+
+#cont-2 {
+    background-color: #00b3b3;
+    margin: 0%;
+}
+
+.cont-2-txt {
+    color: white;
+}
+
+#cont-3 {
+    background-color: #f2f2f2;
+    margin: 0%;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Get Prime</title>
+    <script src="script.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Get Prime Numbers in between</h2>
+        <form action="/action_page.php">
+            <div class="form-group">
+                <label for="From">From:</label>
+                <input type="number" class="form-control" id="from" placeholder="Enter from" name="from" value="">
+            </div>
+            <div class="form-group">
+                <label for="To">To:</label>
+                <input type="nymber" class="form-control" id="to" placeholder="Enter To" name="To" value="">
+            </div>
+            <div class="text-center">
+                <button onclick="getPrime()" id="calculate" type="button" class="btn btn-primary ">Calculate</button>
+            </div>
+        </form>
+        <p id="fx"></p>
+        <p id="result"></p>
+    </div>
+
+</body>
+
+</html>

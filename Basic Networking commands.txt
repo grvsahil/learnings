@@ -1,0 +1,8 @@
+Basic networking tools:-
+
+traceroute
+nslookup
+ping
+ifconfig -a
+netstat
+
